@@ -1,9 +1,9 @@
-# Carrismo
+# Clarify
 
-**Carrismo Repository**
+**Clarify Repository**
 <br>
 <br>
-Transition files and documents from Fairpay to Carrismo.
+Transition files and documents from Fairpay to Clarify.
 <br>
 <br>
 
